@@ -271,7 +271,79 @@
           }
        
       
-    ]
+    ],
 
+    "courses": [{
+        "_id": "63a3a2d9f6e7c8bcc5394d59",
+        "id": 1,
+        "course_name": "Angular & NodeJS - The MEAN Stack Guide",
+        "description": "Learn how to create modern, scalable and high-speed web applications with Angular + Node.js + Express + MongoDB . Angular 1 and NodeJS, together with ExpressJS (a NodeJS Framework) and MongoDB formed the very popular MEAN stack. Now is the time to dive into MEAN 2.0 and replace Angular 1 with Angular 2+. Benefit from the many improvements and advantages Angular offers you: Speed, ease of development, highly reactive, awesome support for asynchronous operations, great scalability and more! And combine these advantages with the power of a NodeJS + Express + MongoDB backend!",
+        "image": "https://img-b.udemycdn.com/course/480x270/833442_b26e_5.jpg",
+        "category": "FRONTEND",
+        "selling_price": 1160,
+        "cost_price": 1350,
+        "discount": "20%",
+        "qn_room": "1"
+    },
+        {
+        "_id": "63a3a2d9f6e7c8bcc5394d5a",
+        "id": 2,
+        "course_name": "Build Responsive Real-World Websites with HTML and CSS",
+        "description": "So, after finishing this course, you will know exactly how to build a beautiful, professional, and ready-to-launch website just like Omnifood, by following a 7-step process. And it will even look great on any computer, tablet, and smartphone.But what if you want to build a completely different website? Well, no problem! I designed the course curriculum with exactly this goal: to enable you to design and build any website that you can think of, not just copy the course project.",
+        "image": "https://img-b.udemycdn.com/course/240x135/437398_46c3_10.jpg",
+        "category": "FRONTEND",
+        "selling_price": 2890,
+        "cost_price": 3400,
+        "discount": "15%",
+        "qn_room": "2"
+    },
+        {
+        "_id": "63a3a2d9f6e7c8bcc5394d5b",
+        "id": 3,
+        "course_name": "The Complete Python Pro Bootcamp",
+        "description": "Welcome to the 100 Days of Code - The Complete Python Pro Bootcamp, the only course you need to learn to code with Python. With over 500,000 5 STAR reviews and a 4.8 average, my courses are some of the HIGHEST RATED courses in the history of Udemy! . 100 days, 1 hour per day, learn to build 1 project per day, this is how you master Python. At 60+ hours, this Python course is without a doubt the most comprehensive Python course available anywhere online. Even if you have zero programming experience, this course will take you from beginner to professional. ",
+        "image": "https://img-b.udemycdn.com/course/240x135/2776760_f176_10.jpg",
+        "category": "AI",
+        "selling_price": 3520,
+        "cost_price": 3900,
+        "discount": "20%",
+        "qn_room": "3"
+    },
+        {
+        "_id": "63a3a2d9f6e7c8bcc5394d5c",
+        "id": 4,
+        "course_name": "iOS & Swift App Development Bootcamp",
+        "description": "Welcome to the Complete iOS App Development Bootcamp. With over 39,000 5 star ratings and a 4.8 average my iOS course is the HIGHEST RATED iOS Course in the history of Udemy! At 55+ hours, this iOS 13 course is the most comprehensive iOS development course online! This Swift 5.1 course is based on our in-person app development bootcamp in London, where we've perfected the curriculum over 4 years of in-person teaching.Our complete app development bootcamp teaches you how to code using Swift 5.1 and build beautiful iOS 13 apps for iPhone and iPad. Even if you have ZERO programming experience.I'll take you step-by-step through engaging and fun video tutorials and teach you everything you need to know to succeed as an iOS app developer.The course includes 55+ hours of HD video tutorials and builds your programming knowledge while making real world apps. e.g. Pokemon Go, Whatsapp, QuizUp and Yahoo Weather.",
+        "image": "https://img-b.udemycdn.com/course/240x135/1778502_f4b9_12.jpg",
+        "category": "FRONTEND",
+        "selling_price": 3780,
+        "cost_price": 4200,
+        "discount": "25%",
+        "qn_room": "4"
+    },
+        {
+        "_id": "63a3a2d9f6e7c8bcc5394d5d",
+        "id": 5,
+        "course_name": "MongoDB - The Complete Developer's",
+        "description": "MongoDB is one of the most important NoSQL databases you can work with these days. It's extremely popular and MongoDB developers are in high demand.No matter if you're building web applications, mobile applications or any other kind of application or if you're a data scientist - you'll need to work with data. Storing data, querying it efficiently and minimizing complexities whilst optimizing performance are crucial tasks.MongoDB makes working with data simple - it's built on a philosophy that prioritizes performance and efficiency.",
+        "image": "https://img-b.udemycdn.com/course/240x135/1906852_93c6_2.jpg",
+        "category": "BACKEND",
+        "selling_price": 1280,
+        "cost_price": 1500,
+        "discount": "20%",
+        "qn_room": "5"
+    },
+        {
+        "_id": "63a3a2d9f6e7c8bcc5394d5e",
+        "id": 6,
+        "course_name": "Fullstack Web Development Bootcamp",
+        "description": "Welcome to the Ultimate 2022 Web Development Bootcamp, the only course you need to learn to code and become a full-stack web developer and the only course that will prepare you for a career in web development.At 40+ hours, this web development course is extremely comprehensive and one of the most detailed courses available on Udemy! Even if you have zero programming experience, this course will take you from beginner to coding ninja",
+        "image": "https://img-b.udemycdn.com/course/240x135/3655840_1c3c.jpg",
+        "category": "FULL STACK",
+        "selling_price": 2760,
+        "cost_price": 3300,
+        "discount": "15%",
+        "qn_room": "6"
+        }]
     
   }
