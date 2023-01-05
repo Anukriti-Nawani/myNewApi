@@ -273,77 +273,233 @@
       
     ],
 
-    "courses": [{
-        "_id": "63a3a2d9f6e7c8bcc5394d59",
-        "id": 1,
-        "course_name": "Angular & NodeJS - The MEAN Stack Guide",
-        "description": "Learn how to create modern, scalable and high-speed web applications with Angular + Node.js + Express + MongoDB . Angular 1 and NodeJS, together with ExpressJS (a NodeJS Framework) and MongoDB formed the very popular MEAN stack. Now is the time to dive into MEAN 2.0 and replace Angular 1 with Angular 2+. Benefit from the many improvements and advantages Angular offers you: Speed, ease of development, highly reactive, awesome support for asynchronous operations, great scalability and more! And combine these advantages with the power of a NodeJS + Express + MongoDB backend!",
-        "image": "https://img-b.udemycdn.com/course/480x270/833442_b26e_5.jpg",
-        "category": "FRONTEND",
-        "selling_price": 1160,
-        "cost_price": 1350,
-        "discount": "20%",
-        "qn_room": "1"
-    },
+
+    "courses": [
         {
-        "_id": "63a3a2d9f6e7c8bcc5394d5a",
-        "id": 2,
-        "course_name": "Build Responsive Real-World Websites with HTML and CSS",
-        "description": "So, after finishing this course, you will know exactly how to build a beautiful, professional, and ready-to-launch website just like Omnifood, by following a 7-step process. And it will even look great on any computer, tablet, and smartphone.But what if you want to build a completely different website? Well, no problem! I designed the course curriculum with exactly this goal: to enable you to design and build any website that you can think of, not just copy the course project.",
-        "image": "https://img-b.udemycdn.com/course/240x135/437398_46c3_10.jpg",
-        "category": "FRONTEND",
-        "selling_price": 2890,
-        "cost_price": 3400,
-        "discount": "15%",
-        "qn_room": "2"
-    },
+          "id": 1,
+          "course_name": "Angular & NodeJS - The MEAN Stack Guide",
+          "description": "Learn how to create modern, scalable and high-speed web applications with Angular + Node.js + Express + MongoDB . Angular 1 and NodeJS, together with ExpressJS (a NodeJS Framework) and MongoDB formed the very popular MEAN stack. Now is the time to dive into MEAN 2.0 and replace Angular 1 with Angular 2+. Benefit from the many improvements and advantages Angular offers you: Speed, ease of development, highly reactive, awesome support for asynchronous operations, great scalability and more! And combine these advantages with the power of a NodeJS + Express + MongoDB backend!",
+          "image": "https://img-b.udemycdn.com/course/480x270/833442_b26e_5.jpg",
+          "category":"FRONTEND",
+          "selling_price": 1160,
+          "cost_price": 1350,
+          "discount": "20%",
+          "qn_room": 1
+        },
         {
-        "_id": "63a3a2d9f6e7c8bcc5394d5b",
-        "id": 3,
-        "course_name": "The Complete Python Pro Bootcamp",
-        "description": "Welcome to the 100 Days of Code - The Complete Python Pro Bootcamp, the only course you need to learn to code with Python. With over 500,000 5 STAR reviews and a 4.8 average, my courses are some of the HIGHEST RATED courses in the history of Udemy! . 100 days, 1 hour per day, learn to build 1 project per day, this is how you master Python. At 60+ hours, this Python course is without a doubt the most comprehensive Python course available anywhere online. Even if you have zero programming experience, this course will take you from beginner to professional. ",
-        "image": "https://img-b.udemycdn.com/course/240x135/2776760_f176_10.jpg",
-        "category": "AI",
-        "selling_price": 3520,
-        "cost_price": 3900,
-        "discount": "20%",
-        "qn_room": "3"
-    },
+          "id": 2,
+          "course_name": "Build Responsive Real-World Websites with HTML and CSS",
+          "description": "So, after finishing this course, you will know exactly how to build a beautiful, professional, and ready-to-launch website just like Omnifood, by following a 7-step process. And it will even look great on any computer, tablet, and smartphone.But what if you want to build a completely different website? Well, no problem! I designed the course curriculum with exactly this goal: to enable you to design and build any website that you can think of, not just copy the course project.",
+          "image": "https://img-b.udemycdn.com/course/240x135/437398_46c3_10.jpg",
+          "category":"FRONTEND",
+          "selling_price": 2890,
+          "cost_price": 3400,
+          "discount": "15%",
+          "qn_room": 2
+        },
         {
-        "_id": "63a3a2d9f6e7c8bcc5394d5c",
-        "id": 4,
-        "course_name": "iOS & Swift App Development Bootcamp",
-        "description": "Welcome to the Complete iOS App Development Bootcamp. With over 39,000 5 star ratings and a 4.8 average my iOS course is the HIGHEST RATED iOS Course in the history of Udemy! At 55+ hours, this iOS 13 course is the most comprehensive iOS development course online! This Swift 5.1 course is based on our in-person app development bootcamp in London, where we've perfected the curriculum over 4 years of in-person teaching.Our complete app development bootcamp teaches you how to code using Swift 5.1 and build beautiful iOS 13 apps for iPhone and iPad. Even if you have ZERO programming experience.I'll take you step-by-step through engaging and fun video tutorials and teach you everything you need to know to succeed as an iOS app developer.The course includes 55+ hours of HD video tutorials and builds your programming knowledge while making real world apps. e.g. Pokemon Go, Whatsapp, QuizUp and Yahoo Weather.",
-        "image": "https://img-b.udemycdn.com/course/240x135/1778502_f4b9_12.jpg",
-        "category": "FRONTEND",
-        "selling_price": 3780,
-        "cost_price": 4200,
-        "discount": "25%",
-        "qn_room": "4"
-    },
+          "id": 3,
+          "course_name": "The Complete Python Pro Bootcamp",
+          "description": "Welcome to the 100 Days of Code - The Complete Python Pro Bootcamp, the only course you need to learn to code with Python. With over 500,000 5 STAR reviews and a 4.8 average, my courses are some of the HIGHEST RATED courses in the history of Udemy! . 100 days, 1 hour per day, learn to build 1 project per day, this is how you master Python. At 60+ hours, this Python course is without a doubt the most comprehensive Python course available anywhere online. Even if you have zero programming experience, this course will take you from beginner to professional. ",
+          "image": "https://img-b.udemycdn.com/course/240x135/2776760_f176_10.jpg",
+          "category":"AI",
+          "selling_price": 3520,
+          "cost_price": 3900,
+          "discount": "20%",
+          "qn_room": 3
+        },
         {
-        "_id": "63a3a2d9f6e7c8bcc5394d5d",
-        "id": 5,
-        "course_name": "MongoDB - The Complete Developer's",
-        "description": "MongoDB is one of the most important NoSQL databases you can work with these days. It's extremely popular and MongoDB developers are in high demand.No matter if you're building web applications, mobile applications or any other kind of application or if you're a data scientist - you'll need to work with data. Storing data, querying it efficiently and minimizing complexities whilst optimizing performance are crucial tasks.MongoDB makes working with data simple - it's built on a philosophy that prioritizes performance and efficiency.",
-        "image": "https://img-b.udemycdn.com/course/240x135/1906852_93c6_2.jpg",
-        "category": "BACKEND",
-        "selling_price": 1280,
-        "cost_price": 1500,
-        "discount": "20%",
-        "qn_room": "5"
-    },
+          "id": 4,
+          "course_name": "iOS & Swift App Development Bootcamp",
+          "description": "Welcome to the Complete iOS App Development Bootcamp. With over 39,000 5 star ratings and a 4.8 average my iOS course is the HIGHEST RATED iOS Course in the history of Udemy! At 55+ hours, this iOS 13 course is the most comprehensive iOS development course online! This Swift 5.1 course is based on our in-person app development bootcamp in London, where we've perfected the curriculum over 4 years of in-person teaching.Our complete app development bootcamp teaches you how to code using Swift 5.1 and build beautiful iOS 13 apps for iPhone and iPad. Even if you have ZERO programming experience.I'll take you step-by-step through engaging and fun video tutorials and teach you everything you need to know to succeed as an iOS app developer.The course includes 55+ hours of HD video tutorials and builds your programming knowledge while making real world apps. e.g. Pokemon Go, Whatsapp, QuizUp and Yahoo Weather.",
+          "image": "https://img-b.udemycdn.com/course/240x135/1778502_f4b9_12.jpg",
+          "category":"FRONTEND",
+          "selling_price": 3780,
+          "cost_price": 4200,
+          "discount": "25%",
+          "qn_room": 4
+        },
         {
-        "_id": "63a3a2d9f6e7c8bcc5394d5e",
-        "id": 6,
-        "course_name": "Fullstack Web Development Bootcamp",
-        "description": "Welcome to the Ultimate 2022 Web Development Bootcamp, the only course you need to learn to code and become a full-stack web developer and the only course that will prepare you for a career in web development.At 40+ hours, this web development course is extremely comprehensive and one of the most detailed courses available on Udemy! Even if you have zero programming experience, this course will take you from beginner to coding ninja",
-        "image": "https://img-b.udemycdn.com/course/240x135/3655840_1c3c.jpg",
-        "category": "FULL STACK",
-        "selling_price": 2760,
-        "cost_price": 3300,
-        "discount": "15%",
-        "qn_room": "6"
-        }]
-    
-  }
+          "id": 5,
+          "course_name": "MongoDB - The Complete Developer's",
+          "description": "MongoDB is one of the most important NoSQL databases you can work with these days. It's extremely popular and MongoDB developers are in high demand.No matter if you're building web applications, mobile applications or any other kind of application or if you're a data scientist - you'll need to work with data. Storing data, querying it efficiently and minimizing complexities whilst optimizing performance are crucial tasks.MongoDB makes working with data simple - it's built on a philosophy that prioritizes performance and efficiency.",
+          "image": "https://img-b.udemycdn.com/course/240x135/1906852_93c6_2.jpg",
+          "category":"BACKEND",
+          "selling_price": 1280,
+          "cost_price": 1500,
+          "discount": "20%",
+          "qn_room": 5
+        },
+        {
+          "id": 6,
+          "course_name": "Fullstack Web Development Bootcamp",
+          "description": "Welcome to the Ultimate 2022 Web Development Bootcamp, the only course you need to learn to code and become a full-stack web developer and the only course that will prepare you for a career in web development.At 40+ hours, this web development course is extremely comprehensive and one of the most detailed courses available on Udemy! Even if you have zero programming experience, this course will take you from beginner to coding ninja",
+          "image": "https://img-b.udemycdn.com/course/240x135/3655840_1c3c.jpg",
+          "category":"FULL STACK",
+          "selling_price": 2760,
+          "cost_price": 3300,
+          "discount": "15%",
+          "qn_room": 6
+        },
+        {
+          "id": 7,
+          "course_name": "GitHub Actions",
+          "description": "GitHub Actions is an extremely popular and fast-growing CI / CD automation service offered by GitHub.This course teaches GitHub Actions from the ground up, without any prior GitHub Actions experience assumed or required.In order to handle growing development and code complexity and deploy application updates with high frequency, powerful automation platforms and tools are required. As you will learn throughout this course, GitHub Actions is such a platform, enabling you to automate anything from code testing, building and deployment all the way up to GitHub repository and project management.",
+          "image": "https://img-b.udemycdn.com/course/240x135/4900166_73e5.jpg",
+          "category":"FULL STACK",
+          "selling_price": 1940,
+          "cost_price": 2400,
+          "discount": "20%",
+          "qn_room": 7
+        },
+        {
+          "id": 8,
+          "course_name": "Learn TypeScript Decorators",
+          "description": "TypeScript is the superset of JavaScript. TypeScript Decorators are a feature in TypeScript through which you attach functionalities to various parts of objects and classes, functions, properties and parameters etc.TypeScript Decorators play an important role in many JavaScript based frameworks and technologies including Angular, React, VueJS and other prominent libraries which support TypeScript. That is why it is a very important part of every programmer's toolset.",
+          "image": "https://img-b.udemycdn.com/course/240x135/4778220_c957_3.jpg",
+          "category":"BACKEND",
+          "selling_price": 1077,
+          "cost_price": 1400,
+          "discount": "30%",
+          "qn_room": 8
+        },
+        {
+          "id": 9,
+          "course_name": "NPM - Node.js Package Manager",
+          "description": "In this course I will explain you what is NPM and how it is used.You will learn how to initialize new project, how to install new dependencies and explore their child dependencies.We will also discuss what is Semantic Versioning and what Major, Minor and Patch versions mean.You will also understand what is the purpose of the package-lock.json file.I will explain you what is the purpose of the NPM scripts and how they should be used. We will talk about built-in NPM scripts and custom script. Also we will combine several NPM scripts in a one using npm-run-all external package.You will understand what is executable script and what is the purpose of the .bin folder in the node_modules folder. I will explain you what is shebang line and how it is used on the Unix-based system and on Windows.",
+          "image": "https://img-b.udemycdn.com/course/240x135/1869566_f54d_5.jpg",
+          "category":"BACKEND",
+          "selling_price": 3087,
+          "cost_price": 4200,
+          "discount": "40%",
+          "qn_room": 9
+        },
+        {
+          "id": 10,
+          "course_name": "JavaScript Bootcamp",
+          "description": "This course covers everything you need to know about JavaScript and become either Frontend Web developer, or Full-stack Web Developer, or Backend developer.This course includes more than 70 CHALLENGES and all exercise files are available in Git repositories.We will start from the very beginning and you will learn fundamentals and basic concepts of JavaScript.Than you will learn new features included in ES6, ES7 etc.Also we will dive into the Node.js - environment for JavaScript code execution and you will understand what is the difference between Web Browser and Node.js.In separate sections we will discuss Babel, NPM, Webpack and MongoDB.Also you will learn most popular JavaScript framework - React.",
+          "image": "https://img-b.udemycdn.com/course/240x135/1586988_dcb2_15.jpg",
+          "category":"FRONTEND",
+          "selling_price": 1019,
+          "cost_price": 2038,
+          "discount": "50%",
+          "qn_room": 10
+        },
+        {
+          "id":11,
+          "course_name":"Spring Boot and Spring Cloud",
+          "description":"Develop and design REST API and REST WEB SERVICES with Spring Boot. Develop MICROSERVICES with Spring Boot and Spring Cloud. Orchestrate microservices with KUBERNETES. Create containers for microservices with DOCKER. IMPLEMENT Exception Handling, Validation, HATEOAS and filtering for RESTful Web Services.",
+          "image":"https://azpanel.azilen.com/uploads/everything_must_know_spring_boot_application_scratch_12_8c4e62d4fe.jpg",
+          "category":"BACKEND",
+          "selling_price":1500,
+          "cost_price":2000,
+          "discount":"30%",
+          "qn_room":11
+      
+        },
+        {
+          "id":12,
+          "course_name":"Learn C# Programming",
+          "description":"Master C# programming concepts from the ground up. Use the source code examples to learn step-by-step.Understand the special features of C#: object orientation, the .NET framework, error-handling, serialization",
+          "image":"https://ik.imagekit.io/ably/ghost/prod/2022/03/using-pub-sub-in-c-net-to-build-a-chat-app@2x.png",
+          "category":"BACKEND",
+          "selling_price":1200,
+          "cost_price":1750,
+          "discount":"30%",
+          "qn_room":12
+      
+        }
+        ,
+        {
+          "id":13,
+          "course_name":"Java/Apache Maven",
+          "description":"Java is a vibrant ecosystem, full of wonderful tools and technologies designed to make working and creating with the language easier for developers. But the most popular Java development tools all have one thing in common – they make developing software and applications easier. In this article, we look at the top Java development tools, including IDEs, build tools, and virtualization technologies. Let’s get started!",
+          "image":"https://www.jrebel.com/sites/default/files/image/2020-05/image-blog-revel-top-java-tools.jpg",
+          "category":"BACKEND",
+          "selling_price":5500,
+          "cost_price":7100,
+          "discount":"30%",
+          "qn_room":13
+      
+        },
+        {
+          "id":14,
+          "course_name":"REACT JS",
+          "description":"React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js.",
+          "image":"https://shethink.in/wp-content/uploads/2021/07/react.js-img.png",
+          "category":"FRONTEND",
+          "selling_price":1233,
+          "cost_price":1753,
+          "discount":"30%",
+          "qn_room":14
+      
+        },
+        {
+          "id":15,
+          "course_name":"Javascript Beginner to Advance Level",
+          "description":"JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices. JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard.[10] It has dynamic typing, prototype-based object-orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM).",
+          "image":"https://images.ctfassets.net/yr4qj72ki4ky/legacyBlogPost77Thumbnail/cd4783ad7b35efc4367166a570a9952e/bigstock-Real-Java-Script-Code-Developi-217215433.jpg",
+          "category":"FRONTEND",
+          "selling_price":1345,
+          "cost_price":2020,
+          "discount":"30%",
+          "qn_room":15
+      
+        },
+        {
+          "id":16,
+          "course_name":"Python Bootcamp From Zero to Hero in Python",
+          "description":"",
+          "image":"https://www.trio.dev/hubfs/Imported_Blog_Media/python_logo.jpg",
+          "category":"AI",
+          "selling_price":2570,
+          "cost_price":3754,
+          "discount":"30%",
+          "qn_room":16
+      
+        },
+        {
+          "id":17,
+          "course_name":"Machine Learning Expert",
+          "description":"Master your path. To become an expert in machine learning, you first need a strong foundation in four learning areas : coding, math, ML theory, and how to build your own ML project from start to finish.",
+          "image":"https://online.crbtech.in/wp-content/uploads/2020/06/Online-AI-Machine-Learning-Course.jpg",
+          "category":"AI",
+          "selling_price":1540,
+          "cost_price":1850,
+          "discount":"30%",
+          "qn_room":17
+      
+        },
+        
+        {
+          "id":18,
+          "course_name":"GOOLANG",
+          "description":"Build simple, secure, scalable systems with Go. An open-source programming language supported by Google. Easy to learn and great for teams.Built-in concurrency and a robust standard library. Large ecosystem of partners, communities, and tools",
+          "image":"https://contentstatic.techgig.com/photo/82278297/5-top-advantages-of-using-golang-programming-language.jpg",
+          "category":"BACKEND",
+          "selling_price":1500,
+          "cost_price":2200,
+          "discount":"30%",
+          "qn_room":18
+      
+        }
+      ],
+
+      "test": [
+        {
+          "id": 1,
+          "course_name": "Angular & NodeJS - The MEAN Stack Guide",
+          "description": "Learn how to create modern, scalable and high-speed web applications with Angular + Node.js + Express + MongoDB . Angular 1 and NodeJS, together with ExpressJS (a NodeJS Framework) and MongoDB formed the very popular MEAN stack. Now is the time to dive into MEAN 2.0 and replace Angular 1 with Angular 2+. Benefit from the many improvements and advantages Angular offers you: Speed, ease of development, highly reactive, awesome support for asynchronous operations, great scalability and more! And combine these advantages with the power of a NodeJS + Express + MongoDB backend!",
+          "image": "https://img-b.udemycdn.com/course/480x270/833442_b26e_5.jpg",
+          "category":"FRONTEND",
+          "selling_price": 1160,
+          "cost_price": 1350,
+          "discount": "20%",
+          "qn_room": 1
+        }
+
+      ]
+
+
+    }   
+  
